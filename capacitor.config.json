@@ -1,0 +1,16 @@
+{
+  "appId": "com.bang.chatgpt",
+  "appName": "Chat GPT",
+  "webDir": "www",
+  "backgroundColor": "#05070e",
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  },
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}
